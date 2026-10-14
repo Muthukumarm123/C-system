@@ -1,0 +1,6 @@
+{
+  "name": "Mastering C: Complete Systems Programming Course",
+  "description": "A zero-assumptions, deeply descriptive C programming course covering everything from compilation and memory architecture to pointers, data structures, cybersecurity, and system calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
